@@ -1,0 +1,5 @@
+This project gives an underlying analysis of stock prices. It seeks to examine the various strategies such as bollinger bands, relative strength index and small moving average to mention but a few that can be used to generating trade signals.
+It comprises technical analysis dashboard, statistical testing, machine learning models and stock analysis. stock price data in real time is read and then statistical testing is done to check stationarity and trends. Also, descriptive 
+data analysis is done on the data in order to check volatility effect, leverage effect and also normal probability desnsity function while exploratory data anlysis is done to calculate
+the monthly realized volatility and also outliers. Testing was also conducted on the live data to test for stationarity and the last of all is the creation of a technical analysis dashboard. The dashboard which includes the various stock and strategies gives us
+an instant result or visualization of when to buy or sell when various strategies and are applied on the stocks listed. The python language is used to build this project with an import of javascript libraries for visualization.
